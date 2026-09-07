@@ -1,3 +1,5 @@
+# Actualización realizada para actividad de control de versiones con Git
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 
